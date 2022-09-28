@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="[https://ymfz.org](https://www.ymfz.org)"><img src="https://avatars.githubusercontent.com/u/113319833?s=200&v=4" alt="Kumarajiva Project" width="150"></a>
+  <a href="https://ymfz.org"><img src="https://avatars.githubusercontent.com/u/113319833?s=200&v=4" alt="Kumarajiva Project" width="150"></a>
   <br>
 </h1>
 
