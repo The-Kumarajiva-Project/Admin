@@ -28,8 +28,7 @@ Dedicated for managing RFWs and RFCs as issues.
 
 ## Owner
 
-- [@yojennifer](https://github.com/yojennifer)
-- [@ngawangtrinley](https://github.com/ngawangtrinley)
+- [@sherabchen](https://github.com/sherabchen)
 
 <!-- This section lists the owners of the repo -->
 
