@@ -50,7 +50,7 @@ What resources do you need to do this job?
 
 ## 9. Definition of acceptable end product
 
-Give a precise, detailed description of the end product. Describe the threshold for what is acceptable and what is not. Include the delivery format, PechaJobs quality standard for this type of job, etc. 
+Give a precise, detailed description of the end product. Describe the threshold for what is acceptable and what is not. Include the delivery format, the Kumarajiva Project quality standard for this type of job, etc. 
 
 ## 10. Milestones
 
