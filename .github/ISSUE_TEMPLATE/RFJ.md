@@ -1,7 +1,7 @@
 ---
 name: RFJ
 about: For all RFJs
-title: "[RFJ"
+title: "RFJ##"
 labels: ''
 assignees: ''
 
