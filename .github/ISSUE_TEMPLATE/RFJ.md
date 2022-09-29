@@ -22,7 +22,7 @@ Check Yes or No
 2. Is it more important than other work we could be doing?
 - [ ] Yes
 - [ ] No
-3. Would this work contribute to the mission of PechaJobs?
+3. Would this work contribute to the mission of the Kumarajiva Project?
 - [ ] Yes
 - [ ] No
 4. Does it offer more business value than alternative solutions?
@@ -46,7 +46,7 @@ Define any new or important concepts used in the summary (section one) or job de
 
 ## 3. Problem and context
 
-What is the problem you're trying to solve? Give the context or background for why you want PechaJobs to do this job.
+What is the problem you're trying to solve? Give the context or background for why you want the Kumarajiva Project to do this job.
 
 ## 4. Job description and scope
 
@@ -54,11 +54,11 @@ Give a detailed description of the job. What does it include and what does it no
 
 ## 5. Constraints
 
-What constraints—–including deadlines, budget, or other requirements––should PechaJobs consider?
+What constraints—–including deadlines, budget, or other requirements––should the Kumarajiva Project consider?
 
 ## 6. Approach
 
-Describe the approach that PechaJobs should take to this job. Give enough detail for PechaJobs to create a detailed plan.
+Describe the approach that the Kumarajiva Project should take to this job. Give enough detail for the Kumarajiva Project to create a detailed plan.
 
 ## 7. Other options
 
@@ -66,7 +66,7 @@ Have you considered other ways to solve this problem? Why didn't you choose them
 
 ## 8. Risks and unknowns
 
-What might go wrong and what can OpenPecha do to reduce those risks? What questions do you have?
+What might go wrong and what can the Kumarajiva Project do to reduce those risks? What questions do you have?
 
 ## 9. Goals
 
@@ -74,4 +74,4 @@ What does success look like? List and prioritize high-level goals. Include metri
 
 ## 10. Timeline
 
-When should PechaJobs finish this job? List the key milestones.
+When should the Kumarajiva Project finish this job? List the key milestones.
