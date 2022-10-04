@@ -110,7 +110,7 @@ body:
     attributes:
       label: 4. Keyword definitions
       description: Give a detailed description of the job. What does it include and what does it not include?
-      placeholder: Keyword: A sentence that defines the keyword.
+      placeholder: Keyword - A sentence that defines the keyword.
     validations:
       required: true
   - type: textarea
