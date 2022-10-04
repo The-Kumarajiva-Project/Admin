@@ -22,7 +22,7 @@
 Dedicated for managing RFWs and RFCs as issues.
 
 - RFJ -> Request for Job, [Create](https://github.com/The-Kumarajiva-Project/Requests/issues/new?assignees=&labels=&template=RFJ.yml&title=%5BRFJ)
-- RFC -> Request for Comment, [Create](https://github.com/The-Kumarajiva-Project/Requests/issues/new?assignees=&labels=&template=RFC.md&title=%5BRFC%5D)
+- RFC -> Request for Comment, [Create](https://github.com/The-Kumarajiva-Project/Requests/issues/new?assignees=&labels=&template=RFC.yml&title=%5BRFC%5D)
 
 <!-- This section provides a high-level overview for the repo -->
 
