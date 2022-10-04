@@ -15,8 +15,7 @@ body:
     attributes:
       label: Who is the client?
       description: Enter the client's name.
-      placeholder: ex. email@example.com
-      value: "Client name"
+      placeholder: Client name
     validations:
       required: true
   - type: input
