@@ -23,8 +23,7 @@ body:
     attributes:
       label: Who is the job manager?
       description: Enter the job manager's github username.
-      placeholder: The job manager
-      value: "github username"
+      placeholder: github username
     validations:
       required: true
   - type: markdown
