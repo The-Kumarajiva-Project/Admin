@@ -1,45 +1,39 @@
-<h1 align="center">
-  <br>
-  <a href="https://ymfz.org"><img src="https://avatars.githubusercontent.com/u/113319833?s=200&v=4" alt="Kumarajiva Project" width="150"></a>
-  <br>
-</h1>
+# PechaJobs Workflow
 
-<h3 align="center">Admin</h3>
+## Roles
+- The **Assigner** orders and pays for the job.
+- The **Job Owner** oversees the job for the Client.
+- The **Team Lead** plans and does the job.
+- The Team Lead's **Teammates** help the Team Lead do the job.
 
+## Workflow
 
-<!-- Replace the title of the repository -->
+### 1. Create a request for job (RFJ)
+The Job Owner writes an RFJ that details the job that the Client asks for.
 
-<p align="center">
-  <a href="#description">Description</a> •
-  <a href="#owner">Owner</a> •
-  <a href="#integrations">Integrations</a> •
-  <a href="#docs">Docs</a>
-</p>
-<hr>
+### 2. Create a request for comments (RFC)
+The Team Lead writes an RFC to show that they understand the work and have a plan that will lead to success.
 
-## Description
+### 3. Approve the RFC
+The Job Owner reviews the RFC and meets with the Team Lead to go over it. Once the Job Owner is satisfied with the Team Lead's plan, the Job Owner signs off on the RFC.
 
-Dedicated for managing RFWs and RFCs as issues.
+### 4. Create a repository
+The Team Lead creates a job repository, updates its readme file, and transfers the RFC to the new repo.
 
-- RFJ -> Request for Job, [Create](https://github.com/The-Kumarajiva-Project/Requests/issues/new?assignees=&labels=&template=RFJ.yml&title=%5BRFJ)
-- RFC -> Request for Comment, [Create](https://github.com/The-Kumarajiva-Project/Requests/issues/new?assignees=&labels=&template=RFC.yml&title=%5BRFC%5D)
+### 5. Create a Github project and milestones
+The Team Lead creates a Github project for the job. Then they create milestones based on the key phases of the RFC's detailed plan.
 
-<!-- This section provides a high-level overview for the repo -->
+### 6. Convert work plan items into issues
+The Team Lead converts each item in the RFC work plan into an issue and assigns it to both the job's repository and project.
 
-## Owner
+### 7. Assign issues to the team
+The Team Lead assigns each issue to themselves or their Teammates if working as a team.
 
-- [@sherabchen](https://github.com/sherabchen)
+### 8. Assign milestones to issues
+The Team Lead assigns issues to milestones.
 
-<!-- This section lists the owners of the repo -->
+### 9. Do the work and create pull requests
+The Team Lead and their teammates do the work and add commits. When they are done, they make one pull request per issue/task.
 
-## Integrations
-
-- No integrations with other repos.
-
-<!-- This section must list as bulleted list how this repo depends or is integrated with other repos -->
-
-## Docs
-
-No Documentation.
-
-<!-- This section must link to the docs which are in the root of the repository in /docs -->
+### 10. Merge requests
+The Job Owner reviews each pull request, asks for changes if needed, and signs off on the work by merging the PR. After merging the PR, the Job Owner moves the issue to the completed section of the project board.
