@@ -1,4 +1,4 @@
-# PechaJobs Workflow
+# Kumarajiva Workflow
 
 ## Roles
 - The **Assigner** orders and pays for the job.
